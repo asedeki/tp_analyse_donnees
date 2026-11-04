@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_autosave
+
+# Données lourdes (à adapter selon vos besoins)
+# *.csv
+# *.zip
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Figures générées pendant les TP
+*.png
+!figures/*.png
